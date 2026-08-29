@@ -16,10 +16,10 @@ from aiogram.utils.deep_linking import create_start_link
 
 # ================= CONFIG =================
 
-TOKEN = "YOUR_BOT_TOKEN"
+TOKEN = "8957787512:AAFhSno5cnAMSg7G2iQibwB3MuuKhlhbD2g"
 
 ADMIN_IDS = [
-    123456789
+    8837001390
 ]
 
 DEFAULT_DELETE_TIME = 10
