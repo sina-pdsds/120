@@ -23,7 +23,7 @@ from aiogram.exceptions import TelegramBadRequest, TelegramForbiddenError
 # CONFIG
 # =========================================================
 
-BOT_TOKEN = "8957787512:AAGCSkFyh1plc9GLbXIno-wJTwqjLlEv0"
+BOT_TOKEN = "8957787512:AAH1rj3cHk7xCtGxE90gocPWDUyPGVhHzpY"
 
 # آیدی عددی ادمین‌ها
 ADMIN_IDS = {
